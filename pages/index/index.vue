@@ -14,6 +14,7 @@
       :username="name" 
     />
     <text>hello world</text>
+    <text>hello world</text>
 	</view>
 </template>
 
