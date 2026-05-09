@@ -13,7 +13,7 @@
       avatar="/static/image.png" 
       :username="name" 
     />
-
+    <text>hello world</text>
 	</view>
 </template>
 
